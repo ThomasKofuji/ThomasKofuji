@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ThomasKofuji
 - 👀 I’m interested in programing world
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on python contents
+- 🌱 I’m currently learning Python and Java
+- 💞️ I’m looking to collaborate on python or java contents
 - 📫 How to reach me ---> My e-mail: thomaskofuji@gmail.com
 
 <!---
